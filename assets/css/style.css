@@ -1,0 +1,9 @@
+body{margin:0;font-family:Arial;background:#111;color:#fff}
+.header{background:#000;padding:15px}
+.nav{display:flex;justify-content:space-between;align-items:center}
+.logo{height:50px}
+nav a{color:#ccc;margin-left:15px;text-decoration:none}
+.hero{padding:100px 20px;background:#1a1a1a;text-align:center}
+.section{padding:60px 20px}
+.section.dark{background:#0b0b0b}
+.footer{text-align:center;background:#000;padding:15px}
